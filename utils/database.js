@@ -8,3 +8,4 @@ const sequelize = new Sequelize(keys.DN_NAME, keys.USER_NAME, keys.PASSWORD, {
 })
 
 module.exports = sequelize
+
